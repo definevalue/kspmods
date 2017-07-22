@@ -1,0 +1,23 @@
+{
+   "URL" : "https://raw.githubusercontent.com/Starwaster/ProceduralParts/master/GameData/ProceduralParts/ProceduralParts.version",
+   "NAME" : "Procedural Parts",
+   "GITHUB" : {
+      "REPOSITORY" : "ProceduralParts",
+      "USERNAME" : "Starwaster"
+   },
+   "VERSION" :
+   {
+      "MAJOR" : 1,
+      "MINOR" : 2,
+      "PATCH" : 12,
+      "BUILD" : 0
+   },
+   "DOWNLOAD" : "https://github.com/Starwaster/ProceduralParts/releases",
+   "KSP_VERSION" :
+   {
+      "MAJOR" : 1,
+      "MINOR" : 3,
+      "PATCH" : 0
+   }
+}
+
