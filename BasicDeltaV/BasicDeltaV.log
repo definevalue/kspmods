@@ -1,7 +1,7 @@
 Executing: BasicDeltaV - 1.0.1.1
 Assembly: C:\Users\seb\Desktop\Kerbal Space Program13\GameData\BasicDeltaV\BasicDeltaV.dll
 
-[Log 07:45:33.0874972]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[Log 03:42:18.0304817]: Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ModuleManager.2.8.1, Version=2.8.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: aaa_Toolbar, Version=1.7.14.0, Culture=neutral, PublicKeyToken=null
 Assembly: USITools, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -51,6 +51,8 @@ Assembly: PortraitStats, Version=1.0.14.0, Culture=neutral, PublicKeyToken=null
 Assembly: PreciseManeuver, Version=2.3.1.0, Culture=neutral, PublicKeyToken=null
 Assembly: PreciseManeuver.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ProceduralParts, Version=1.2.12.0, Culture=neutral, PublicKeyToken=null
+Assembly: RCSBuildAid, Version=0.9.1.39319, Culture=neutral, PublicKeyToken=null
+Assembly: RCSBuildAidToolbar, Version=0.9.1.39319, Culture=neutral, PublicKeyToken=null
 Assembly: RetractableLiftingSurface, Version=0.1.4.0, Culture=neutral, PublicKeyToken=null
 Assembly: SCANsat, Version=1.8.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: SCANmechjeb, Version=1.8.0.0, Culture=neutral, PublicKeyToken=null
@@ -77,5 +79,5 @@ Assembly: Scale, Version=2.3.6.0, Culture=neutral, PublicKeyToken=null
 Assembly: Scale_Redist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: USILifeSupport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 Assembly: ZeroMiniAVC, Version=1.0.5.35605, Culture=neutral, PublicKeyToken=null
-Assembly: [x] Science!, Version=5.8.6389.38319, Culture=neutral, PublicKeyToken=null
+Assembly: [x] Science!, Version=5.9.6410.17409, Culture=neutral, PublicKeyToken=null
 
